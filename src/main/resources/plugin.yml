@@ -1,0 +1,6 @@
+name: SimpleJoinLeaveMessage
+version: '${project.version}'
+main: space.d513.plugins.simplejoinleavemessage.SimpleJoinLeaveMessage
+api-version: 1.17
+authors: [ dada513 ]
+softdepend: [PlaceholderAPI]

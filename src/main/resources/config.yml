@@ -1,0 +1,6 @@
+# DO NOT TOUCH
+config-version: "1.0.0"
+
+messages:
+  join: "&a{name} joined the server!"
+  leave: "&c{name} left the server ):"
